@@ -1,5 +1,13 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
     "WholeNumber": 3443,
     "DecimalNumber": 100.0,
     "Description": "Description from JSONHTTp"
+  }
 }
