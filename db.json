@@ -9,5 +9,11 @@
     "WholeNumber": 3443,
     "DecimalNumber": 100.0,
     "Description": "Description from JSONHTTp"
+  },
+    "test": {
+    "nombre": "caja",
+    "x": -660,
+    "y": -100,
+    "z": 130
   }
 }
