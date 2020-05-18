@@ -1,18 +1,97 @@
 {
-	"posts": [{
-		"id": 1,
-		"title": "hello"
-	}],
+    "productos": [
+        {
+            "id": 0,
+            "categoria": 0,
+            "title": "Licuadora"
+        },
+        {
+            "id": 1,
+            "categoria": 0,
+            "title": "Televisor"
+        },
+        {
+            "id": 2,
+            "categoria": 0,
+            "title": "Hono Microondas"
+        },
+        {
+            "id": 3,
+            "categoria": 0,
+            "title": "Refrigeradora"
+        },
+        {
+            "id": 4,
+            "categoria": 0,
+            "title": "Radio"
+        },
+        {
+            "id": 5,
+            "categoria": 0,
+            "title": "Extractor Jugos"
+        },
+        {
+            "id": 6,
+            "categoria": 0,
+            "title": "Cocina"
+        },
+        {
+            "id": 7,
+            "categoria": 0,
+            "title": "Filmadora"
+        },
+        {
+            "id": 8,
+            "categoria": 0,
+            "title": "Mesa Comedor"
+        },
+        {
+            "id": 9,
+            "categoria": 0,
+            "title": "Cuadro"
+        },
+        {
+            "id": 10,
+            "categoria": 0,
+            "title": "Reloj"
+        },
+        {
+            "id": 11,
+            "categoria": 0,
+            "title": "Camara fotografica"
+        },
+        {
+            "id": 12,
+            "categoria": 0,
+            "title": "Mesa de Centro"
+        },
+        {
+            "id": 13,
+            "categoria": 0,
+            "title": "Armario"
+        },
+        {
+            "id": 14,
+            "categoria": 0,
+            "title": "Estante"
+        },
+        {
+            "id": 15,
+            "categoria": 0,
+            "title": "Repisa"
+        }
+    ],
 	"ronald": {
 		"Nombre": "Percy",
 		"Apellidos": "Manchego Reyna",
-		"Objetos": [{
-				"Id": 1,
-				"Cat": 0,
-				"Prod": 1,
-				"PosX": -660,
-				"PosY": -100,
-				"PosZ": 190,
+        "Objetos": [
+            {
+                "Id": 1,
+                "Cat": 1,
+                "Prod": 1,
+				"PosX": -989,
+				"PosY": -460,
+				"PosZ": 439,
 				"RotX": 120,
 				"RotY": 0,
 				"RotZ": 0,
@@ -21,12 +100,180 @@
 				"EscZ": 1
 			},
 			{
-				"Id": 2,
-				"Cat": 0,
+                "Id": 2,
+				"Cat": 1,
 				"Prod": 2,
-				"PosX": -560,
-				"PosY": -80,
-				"PosZ": 190,
+				"PosX": -679,
+				"PosY": 394,
+				"PosZ": 570,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 3,
+                "Cat": 1,
+                "Prod": 3,
+				"PosX": -1106,
+				"PosY": -307,
+				"PosZ": 338,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 4,
+				"Cat": 1,
+				"Prod": 4,
+				"PosX": -722,
+				"PosY": -282,
+				"PosZ": 775,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 5,
+                "Cat": 1,
+                "Prod": 5,
+				"PosX": -678,
+				"PosY": -572,
+				"PosZ": 267,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 6,
+				"Cat": 1,
+				"Prod": 1,
+				"PosX": 402,
+				"PosY": 76,
+				"PosZ": 746,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 7,
+                "Cat": 1,
+                "Prod": 2,
+				"PosX": 22,
+				"PosY": -31,
+				"PosZ": 452,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 8,
+				"Cat": 1,
+				"Prod": 3,
+				"PosX": -1559,
+				"PosY": -322,
+				"PosZ": 720,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 9,
+                "Cat": 1,
+                "Prod": 4,
+				"PosX": -232,
+				"PosY": 207,
+				"PosZ": 609,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 10,
+				"Cat": 1,
+				"Prod": 5,
+				"PosX": -497,
+				"PosY": -908,
+				"PosZ": 608,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 11,
+                "Cat": 1,
+                "Prod": 1,
+				"PosX": 594,
+				"PosY": 86,
+				"PosZ": 313,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 12,
+				"Cat": 1,
+				"Prod": 2,
+				"PosX": 380,
+				"PosY": 123,
+				"PosZ": 556,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 13,
+                "Cat": 1,
+                "Prod": 3,
+				"PosX": 906,
+				"PosY": -1227,
+				"PosZ": 674,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 14,
+				"Cat": 1,
+				"Prod": 4,
+				"PosX": -600,
+				"PosY": -497,
+				"PosZ": 372,
 				"RotX": 120,
 				"RotY": 0,
 				"RotZ": 0,
@@ -39,13 +286,14 @@
 	"erik": {
 		"Nombre": "Erik Rafael",
 		"Apellidos": "Manchego Reyna",
-		"Objetos": [{
-				"Id": 1,
-				"Cat": 0,
-				"Prod": 1,
-				"PosX": -660,
-				"PosY": -100,
-				"PosZ": 190,
+		"Objetos": [
+            {
+                "Id": 1,
+                "Cat": 1,
+                "Prod": 1,
+				"PosX": 1043,
+				"PosY": -453,
+				"PosZ": 202,
 				"RotX": 120,
 				"RotY": 0,
 				"RotZ": 0,
@@ -54,12 +302,180 @@
 				"EscZ": 1
 			},
 			{
-				"Id": 2,
-				"Cat": 0,
+                "Id": 2,
+				"Cat": 1,
 				"Prod": 2,
-				"PosX": -560,
-				"PosY": -80,
-				"PosZ": 190,
+				"PosX": -1420,
+				"PosY": -393,
+				"PosZ": 207,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 3,
+                "Cat": 1,
+                "Prod": 3,
+				"PosX": 165,
+				"PosY": 341,
+				"PosZ": 740,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 4,
+				"Cat": 1,
+				"Prod": 4,
+				"PosX": 474,
+				"PosY": 870,
+				"PosZ": 252,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 5,
+                "Cat": 1,
+                "Prod": 5,
+				"PosX": -1078,
+				"PosY": 875,
+				"PosZ": 786,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 6,
+				"Cat": 1,
+				"Prod": 1,
+				"PosX": -1680,
+				"PosY": 215,
+				"PosZ": 751,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 7,
+                "Cat": 1,
+                "Prod": 2,
+				"PosX": -1501,
+				"PosY": 1120,
+				"PosZ": 766,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 8,
+				"Cat": 1,
+				"Prod": 3,
+				"PosX": -694,
+				"PosY": -244,
+				"PosZ": 818,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 9,
+                "Cat": 1,
+                "Prod": 4,
+				"PosX": -1419,
+				"PosY": -965,
+				"PosZ": 518,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 10,
+				"Cat": 1,
+				"Prod": 5,
+				"PosX": -409,
+				"PosY": -259,
+				"PosZ": 430,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 11,
+                "Cat": 1,
+                "Prod": 1,
+				"PosX": 23,
+				"PosY": 425,
+				"PosZ": 348,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 12,
+				"Cat": 1,
+				"Prod": 2,
+				"PosX": 52,
+				"PosY": -1223,
+				"PosZ": 857,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+            },
+            {
+                "Id": 13,
+                "Cat": 1,
+                "Prod": 3,
+				"PosX": 1035,
+				"PosY": 870,
+				"PosZ": 206,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
+			},
+			{
+                "Id": 14,
+				"Cat": 1,
+				"Prod": 4,
+				"PosX": -510,
+				"PosY": 673,
+				"PosZ": 333,
 				"RotX": 120,
 				"RotY": 0,
 				"RotZ": 0,
