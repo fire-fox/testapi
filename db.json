@@ -14,6 +14,15 @@
     "nombre": "caja",
     "x": -660,
     "y": -100,
-    "z": 190
+    "z": 190,
+    "objeto": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "hello"
+    },
   }
 }
