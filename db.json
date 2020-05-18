@@ -22,28 +22,28 @@
 		"Objetos": [{
 				"id": 1,
 				"nombre": "tv",
-				"Posx": -660,
-				"Posy": -100,
-				"Posz": 190,
-				"Rotx": 120,
-				"Roty": 0,
-				"Rotz": 0,
-				"Escx": 1,
-				"Escy": 1,
-				"Escz": 1
+				"PosX": -660,
+				"PosY": -100,
+				"PosZ": 190,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
 			},
 			{
 				"id": 2,
 				"nombre": "refri",
-				"Posx": -660,
-				"Posy": -100,
-				"Posz": 190,
-				"Rotx": 120,
-				"Roty": 0,
-				"Rotz": 0,
-				"Escx": 1,
-				"Escy": 1,
-				"Escz": 1
+				"PosX": -660,
+				"PosY": -100,
+				"PosZ": 190,
+				"RotX": 120,
+				"RotY": 0,
+				"RotZ": 0,
+				"EscX": 1,
+				"EscY": 1,
+				"EscZ": 1
 			}
 		]
 	}
