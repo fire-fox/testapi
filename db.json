@@ -19,7 +19,7 @@
 		"Escx": 1,
 		"Escy": 1,
 		"Escz": 1,
-		"objeto": [{
+		"Objetos": [{
 				"id": 1,
 				"nombre": "tv",
 				"Posx": -660,
