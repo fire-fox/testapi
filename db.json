@@ -22,7 +22,7 @@
 			},
 			{
 				"id": 2,
-				"nombre": "refri"
+				"nombre": "refri",
 				"x": -300,
 				"y":-500,
 				"z":200
