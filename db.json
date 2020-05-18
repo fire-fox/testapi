@@ -1,28 +1,26 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "WholeNumber": 3443,
-    "DecimalNumber": 100.0,
-    "Description": "Description from JSONHTTp"
-  },
-    "test": {
-    "nombre": "caja",
-    "x": -660,
-    "y": -100,
-    "z": 190,
-    "objeto": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "hello"
-    },
-  }
+	"posts": [{
+		"id": 1,
+		"title": "hello"
+	}],
+	"profile": {
+		"WholeNumber": 3443,
+		"DecimalNumber": 100.0,
+		"Description": "Description from JSONHTTp"
+	},
+	"test": {
+		"nombre": "caja",
+		"x": -660,
+		"y": -100,
+		"z": 190,
+		"objeto": [{
+				"id": 1,
+				"title": "hello"
+			},
+			{
+				"id": 2,
+				"title": "hello"
+			}
+		]
+	}
 }
