@@ -7,9 +7,10 @@
 		"Nombre": "Percy",
 		"Apellidos": "Manchego Reyna",
 		"Objetos": [{
-				"id": 1,
-				"nombre": "tv",
-				"PosX": -560,
+				"Id": 1,
+				"Cat": 0,
+				"Prod": 1,
+				"PosX": -660,
 				"PosY": -100,
 				"PosZ": 190,
 				"RotX": 120,
@@ -20,9 +21,10 @@
 				"EscZ": 1
 			},
 			{
-				"id": 2,
-				"nombre": "refri",
-				"PosX": -660,
+				"Id": 2,
+				"Cat": 0,
+				"Prod": 2,
+				"PosX": -560,
 				"PosY": -80,
 				"PosZ": 190,
 				"RotX": 120,
@@ -38,8 +40,9 @@
 		"Nombre": "Erik Rafael",
 		"Apellidos": "Manchego Reyna",
 		"Objetos": [{
-				"id": 1,
-				"nombre": "tv",
+				"Id": 1,
+				"Cat": 0,
+				"Prod": 1,
 				"PosX": -660,
 				"PosY": -100,
 				"PosZ": 190,
@@ -51,8 +54,9 @@
 				"EscZ": 1
 			},
 			{
-				"id": 2,
-				"nombre": "refri",
+				"Id": 2,
+				"Cat": 0,
+				"Prod": 2,
 				"PosX": -560,
 				"PosY": -80,
 				"PosZ": 190,
