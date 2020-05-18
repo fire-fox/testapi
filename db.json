@@ -15,11 +15,17 @@
 		"z": 190,
 		"objeto": [{
 				"id": 1,
-				"title": "hello"
+				"nombre": "tv",
+				"x": -400,
+				"y":-600,
+				"z":100
 			},
 			{
 				"id": 2,
-				"title": "hello"
+				"nombre": "refri"
+				"x": -300,
+				"y":-500,
+				"z":200
 			}
 		]
 	}
