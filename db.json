@@ -190,48 +190,6 @@
                 "EscX":1,
                 "EscY":1,
                 "EscZ":1
-             },
-             {
-                "Id":12,
-                "CatId":1,
-                "ProdId":2,
-                "PosX":380,
-                "PosY":123,
-                "PosZ":556,
-                "RotX":120,
-                "RotY":0,
-                "RotZ":0,
-                "EscX":1,
-                "EscY":1,
-                "EscZ":1
-             },
-             {
-                "Id":13,
-                "CatId":1,
-                "ProdId":3,
-                "PosX":906,
-                "PosY":-1227,
-                "PosZ":674,
-                "RotX":120,
-                "RotY":0,
-                "RotZ":0,
-                "EscX":1,
-                "EscY":1,
-                "EscZ":1
-             },
-             {
-                "Id":14,
-                "CatId":1,
-                "ProdId":4,
-                "PosX":-600,
-                "PosY":-497,
-                "PosZ":372,
-                "RotX":120,
-                "RotY":0,
-                "RotZ":0,
-                "EscX":1,
-                "EscY":1,
-                "EscZ":1
              }
           ]
        },
