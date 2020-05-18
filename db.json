@@ -22,16 +22,28 @@
 		"objeto": [{
 				"id": 1,
 				"nombre": "tv",
-				"x": -400,
-				"y":-600,
-				"z":100
+				"Posx": -660,
+				"Posy": -100,
+				"Posz": 190,
+				"Rotx": 120,
+				"Roty": 0,
+				"Rotz": 0,
+				"Escx": 1,
+				"Escy": 1,
+				"Escz": 1
 			},
 			{
 				"id": 2,
 				"nombre": "refri",
-				"x": -300,
-				"y":-500,
-				"z":200
+				"Posx": -660,
+				"Posy": -100,
+				"Posz": 190,
+				"Rotx": 120,
+				"Roty": 0,
+				"Rotz": 0,
+				"Escx": 1,
+				"Escy": 1,
+				"Escz": 1,
 			}
 		]
 	}
