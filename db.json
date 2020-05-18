@@ -19,6 +19,8 @@
 		"Escx": 1,
 		"Escy": 1,
 		"Escz": 1,
+		"Nombre": "Erik Rafael",
+		"Apellidos": "Manchego Reyna",
 		"Objetos": [{
 				"id": 1,
 				"nombre": "tv",
