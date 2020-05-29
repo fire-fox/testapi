@@ -195,7 +195,10 @@
              "RotZ":0,
              "EscX":1,
              "EscY":1,
-             "EscZ":1
+             "EscZ":1,
+              "ColorR":1,
+              "ColorG":0.5,
+              "ColorB":0.4
           },
           {
              "Id":2,
@@ -209,7 +212,10 @@
              "RotZ":0,
              "EscX":1,
              "EscY":1,
-             "EscZ":1
+             "EscZ":1,
+              "ColorR":0.9,
+              "ColorG":0.5,
+              "ColorB":0.4
           },
           {
              "Id":3,
@@ -223,7 +229,10 @@
              "RotZ":0,
              "EscX":1,
              "EscY":1,
-             "EscZ":1
+             "EscZ":1,
+              "ColorR":0.8,
+              "ColorG":0.5,
+              "ColorB":0.4
           },
           {
              "Id":4,
@@ -237,7 +246,10 @@
              "RotZ":0,
              "EscX":1,
              "EscY":1,
-             "EscZ":1
+             "EscZ":1,
+              "ColorR":0.7,
+              "ColorG":0.5,
+              "ColorB":0.4
           },
           {
              "Id":5,
@@ -251,7 +263,10 @@
              "RotZ":0,
              "EscX":1,
              "EscY":1,
-             "EscZ":1
+             "EscZ":1,
+              "ColorR":0.6,
+              "ColorG":0.5,
+              "ColorB":0.4
           },
           {
              "Id":6,
@@ -265,7 +280,10 @@
              "RotZ":0,
              "EscX":1,
              "EscY":1,
-             "EscZ":1
+             "EscZ":1,
+              "ColorR":0.5,
+              "ColorG":0.5,
+              "ColorB":0.4
           },
           {
              "Id":7,
@@ -279,7 +297,10 @@
              "RotZ":0,
              "EscX":1,
              "EscY":1,
-             "EscZ":1
+             "EscZ":1,
+              "ColorR":0.4,
+              "ColorG":0.5,
+              "ColorB":0.4
           },
           {
              "Id":8,
@@ -293,7 +314,10 @@
              "RotZ":0,
              "EscX":1,
              "EscY":1,
-             "EscZ":1
+             "EscZ":1,
+              "ColorR":0.3,
+              "ColorG":0.5,
+              "ColorB":0.4
           },
           {
              "Id":9,
@@ -307,7 +331,10 @@
              "RotZ":0,
              "EscX":1,
              "EscY":1,
-             "EscZ":1
+             "EscZ":1,
+              "ColorR":0.2,
+              "ColorG":0.5,
+              "ColorB":0.4
           },
           {
              "Id":10,
@@ -321,63 +348,10 @@
              "RotZ":0,
              "EscX":1,
              "EscY":1,
-             "EscZ":1
-          },
-          {
-             "Id":11,
-             "CatId":1,
-             "ProdId":1,
-             "PosX":23,
-             "PosY":425,
-             "PosZ":348,
-             "RotX":120,
-             "RotY":0,
-             "RotZ":0,
-             "EscX":1,
-             "EscY":1,
-             "EscZ":1
-          },
-          {
-             "Id":12,
-             "CatId":1,
-             "ProdId":2,
-             "PosX":52,
-             "PosY":-1223,
-             "PosZ":857,
-             "RotX":120,
-             "RotY":0,
-             "RotZ":0,
-             "EscX":1,
-             "EscY":1,
-             "EscZ":1
-          },
-          {
-             "Id":13,
-             "CatId":1,
-             "ProdId":3,
-             "PosX":1035,
-             "PosY":870,
-             "PosZ":206,
-             "RotX":120,
-             "RotY":0,
-             "RotZ":0,
-             "EscX":1,
-             "EscY":1,
-             "EscZ":1
-          },
-          {
-             "Id":14,
-             "CatId":1,
-             "ProdId":4,
-             "PosX":-510,
-             "PosY":673,
-             "PosZ":333,
-             "RotX":120,
-             "RotY":0,
-             "RotZ":0,
-             "EscX":1,
-             "EscY":1,
-             "EscZ":1
+             "EscZ":1,
+              "ColorR":0.1,
+              "ColorG":0.5,
+              "ColorB":0.4
           }
        ]
     }
