@@ -197,7 +197,7 @@
              "EscY":1,
              "EscZ":1,
               "ColorR":1,
-              "ColorG":0.5,
+              "ColorG":0.1,
               "ColorB":0.4
           },
           {
@@ -214,7 +214,7 @@
              "EscY":1,
              "EscZ":1,
               "ColorR":0.9,
-              "ColorG":0.5,
+              "ColorG":0.2,
               "ColorB":0.4
           },
           {
@@ -231,7 +231,7 @@
              "EscY":1,
              "EscZ":1,
               "ColorR":0.8,
-              "ColorG":0.5,
+              "ColorG":0.3,
               "ColorB":0.4
           },
           {
@@ -248,7 +248,7 @@
              "EscY":1,
              "EscZ":1,
               "ColorR":0.7,
-              "ColorG":0.5,
+              "ColorG":0.4,
               "ColorB":0.4
           },
           {
@@ -282,7 +282,7 @@
              "EscY":1,
              "EscZ":1,
               "ColorR":0.5,
-              "ColorG":0.5,
+              "ColorG":0.6,
               "ColorB":0.4
           },
           {
@@ -299,7 +299,7 @@
              "EscY":1,
              "EscZ":1,
               "ColorR":0.4,
-              "ColorG":0.5,
+              "ColorG":0.7,
               "ColorB":0.4
           },
           {
@@ -316,7 +316,7 @@
              "EscY":1,
              "EscZ":1,
               "ColorR":0.3,
-              "ColorG":0.5,
+              "ColorG":0.8,
               "ColorB":0.4
           },
           {
@@ -333,7 +333,7 @@
              "EscY":1,
              "EscZ":1,
               "ColorR":0.2,
-              "ColorG":0.5,
+              "ColorG":0.9,
               "ColorB":0.4
           },
           {
@@ -350,7 +350,7 @@
              "EscY":1,
              "EscZ":1,
               "ColorR":0.1,
-              "ColorG":0.5,
+              "ColorG":1,
               "ColorB":0.4
           }
        ]
